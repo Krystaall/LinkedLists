@@ -1,2 +1,2 @@
 # LinkedLists
-All about Linked Lists
+Linked Lists code in python
